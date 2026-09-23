@@ -1,0 +1,14 @@
+{
+  "verified_at": "2026-09-23T20:00:20.340Z",
+  "connector": "file",
+  "windsor_account_id": "368",
+  "dataset": "zuri_home_b8_31",
+  "authenticated_user": "zz215@expert.micro1.ai",
+  "source_rows": 84,
+  "returned_rows": 84,
+  "cells_compared": 1428,
+  "all_values_match": true,
+  "method": "Read all discovered fields with Windsor get_data, then compare every source value by date plus creative ID",
+  "date_from": "2026-09-09",
+  "date_to": "2026-09-22"
+}

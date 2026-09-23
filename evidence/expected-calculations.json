@@ -1,0 +1,115 @@
+{
+  "baseline": {
+    "rows": 42,
+    "spend": 4200,
+    "impressions": 189000,
+    "clicks": 4200,
+    "purchases": 245,
+    "revenue": 24500,
+    "cpa": 17.142857142857142,
+    "roas": 5.833333333333333
+  },
+  "comparison": {
+    "rows": 42,
+    "spend": 5600,
+    "impressions": 259000,
+    "clicks": 3500,
+    "purchases": 189,
+    "revenue": 18900,
+    "cpa": 29.62962962962963,
+    "roas": 3.375
+  },
+  "driver": {
+    "baseline": {
+      "rows": 7,
+      "spend": 1400,
+      "impressions": 70000,
+      "clicks": 1400,
+      "purchases": 70,
+      "revenue": 7000,
+      "cpa": 20,
+      "roas": 5
+    },
+    "comparison": {
+      "rows": 7,
+      "spend": 2800,
+      "impressions": 140000,
+      "clicks": 700,
+      "purchases": 14,
+      "revenue": 1400,
+      "cpa": 200,
+      "roas": 0.5
+    }
+  },
+  "campaigns": [
+    {
+      "campaign_id": "ZH-PROS",
+      "baseline": {
+        "rows": 14,
+        "spend": 2100,
+        "impressions": 105000,
+        "clicks": 2100,
+        "purchases": 105,
+        "revenue": 10500,
+        "cpa": 20,
+        "roas": 5
+      },
+      "comparison": {
+        "rows": 14,
+        "spend": 3500,
+        "impressions": 175000,
+        "clicks": 1400,
+        "purchases": 49,
+        "revenue": 4900,
+        "cpa": 71.42857142857143,
+        "roas": 1.4
+      }
+    },
+    {
+      "campaign_id": "ZH-RET",
+      "baseline": {
+        "rows": 14,
+        "spend": 1400,
+        "impressions": 56000,
+        "clicks": 1400,
+        "purchases": 70,
+        "revenue": 7000,
+        "cpa": 20,
+        "roas": 5
+      },
+      "comparison": {
+        "rows": 14,
+        "spend": 1400,
+        "impressions": 56000,
+        "clicks": 1400,
+        "purchases": 70,
+        "revenue": 7000,
+        "cpa": 20,
+        "roas": 5
+      }
+    },
+    {
+      "campaign_id": "ZH-LOY",
+      "baseline": {
+        "rows": 14,
+        "spend": 700,
+        "impressions": 28000,
+        "clicks": 700,
+        "purchases": 70,
+        "revenue": 7000,
+        "cpa": 10,
+        "roas": 10
+      },
+      "comparison": {
+        "rows": 14,
+        "spend": 700,
+        "impressions": 28000,
+        "clicks": 700,
+        "purchases": 70,
+        "revenue": 7000,
+        "cpa": 10,
+        "roas": 10
+      }
+    }
+  ]
+}

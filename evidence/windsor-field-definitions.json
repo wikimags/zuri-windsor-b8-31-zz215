@@ -1,0 +1,121 @@
+[
+  {
+    "id": "zuri_home_b8_31__date",
+    "name": "zuri_home_b8_31.date",
+    "description": "zuri_home_b8_31.date",
+    "type": "TEXT",
+    "table": "zuri_home_b8_31"
+  },
+  {
+    "id": "zuri_home_b8_31__account_id",
+    "name": "zuri_home_b8_31.account_id",
+    "description": "zuri_home_b8_31.account_id",
+    "type": "TEXT",
+    "table": "zuri_home_b8_31"
+  },
+  {
+    "id": "zuri_home_b8_31__account_name",
+    "name": "zuri_home_b8_31.account_name",
+    "description": "zuri_home_b8_31.account_name",
+    "type": "TEXT",
+    "table": "zuri_home_b8_31"
+  },
+  {
+    "id": "zuri_home_b8_31__platform",
+    "name": "zuri_home_b8_31.platform",
+    "description": "zuri_home_b8_31.platform",
+    "type": "TEXT",
+    "table": "zuri_home_b8_31"
+  },
+  {
+    "id": "zuri_home_b8_31__campaign_id",
+    "name": "zuri_home_b8_31.campaign_id",
+    "description": "zuri_home_b8_31.campaign_id",
+    "type": "TEXT",
+    "table": "zuri_home_b8_31"
+  },
+  {
+    "id": "zuri_home_b8_31__campaign_name",
+    "name": "zuri_home_b8_31.campaign_name",
+    "description": "zuri_home_b8_31.campaign_name",
+    "type": "TEXT",
+    "table": "zuri_home_b8_31"
+  },
+  {
+    "id": "zuri_home_b8_31__creative_id",
+    "name": "zuri_home_b8_31.creative_id",
+    "description": "zuri_home_b8_31.creative_id",
+    "type": "TEXT",
+    "table": "zuri_home_b8_31"
+  },
+  {
+    "id": "zuri_home_b8_31__creative_name",
+    "name": "zuri_home_b8_31.creative_name",
+    "description": "zuri_home_b8_31.creative_name",
+    "type": "TEXT",
+    "table": "zuri_home_b8_31"
+  },
+  {
+    "id": "zuri_home_b8_31__currency",
+    "name": "zuri_home_b8_31.currency",
+    "description": "zuri_home_b8_31.currency",
+    "type": "TEXT",
+    "table": "zuri_home_b8_31"
+  },
+  {
+    "id": "zuri_home_b8_31__reporting_timezone",
+    "name": "zuri_home_b8_31.reporting_timezone",
+    "description": "zuri_home_b8_31.reporting_timezone",
+    "type": "TEXT",
+    "table": "zuri_home_b8_31"
+  },
+  {
+    "id": "zuri_home_b8_31__attribution_window",
+    "name": "zuri_home_b8_31.attribution_window",
+    "description": "zuri_home_b8_31.attribution_window",
+    "type": "TEXT",
+    "table": "zuri_home_b8_31"
+  },
+  {
+    "id": "zuri_home_b8_31__spend",
+    "name": "zuri_home_b8_31.spend",
+    "description": "zuri_home_b8_31.spend",
+    "type": "NUMERIC",
+    "table": "zuri_home_b8_31"
+  },
+  {
+    "id": "zuri_home_b8_31__impressions",
+    "name": "zuri_home_b8_31.impressions",
+    "description": "zuri_home_b8_31.impressions",
+    "type": "NUMERIC",
+    "table": "zuri_home_b8_31"
+  },
+  {
+    "id": "zuri_home_b8_31__clicks",
+    "name": "zuri_home_b8_31.clicks",
+    "description": "zuri_home_b8_31.clicks",
+    "type": "NUMERIC",
+    "table": "zuri_home_b8_31"
+  },
+  {
+    "id": "zuri_home_b8_31__purchases",
+    "name": "zuri_home_b8_31.purchases",
+    "description": "zuri_home_b8_31.purchases",
+    "type": "NUMERIC",
+    "table": "zuri_home_b8_31"
+  },
+  {
+    "id": "zuri_home_b8_31__revenue",
+    "name": "zuri_home_b8_31.revenue",
+    "description": "zuri_home_b8_31.revenue",
+    "type": "NUMERIC",
+    "table": "zuri_home_b8_31"
+  },
+  {
+    "id": "zuri_home_b8_31__data_status",
+    "name": "zuri_home_b8_31.data_status",
+    "description": "zuri_home_b8_31.data_status",
+    "type": "TEXT",
+    "table": "zuri_home_b8_31"
+  }
+]

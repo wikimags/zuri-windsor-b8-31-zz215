@@ -1,0 +1,13 @@
+{
+  "task": "B8-31",
+  "client": "Zuri Home",
+  "synthetic": true,
+  "date_from": "2026-09-09",
+  "date_to": "2026-09-22",
+  "grain": "date, account_id, campaign_id, creative_id",
+  "rows": 84,
+  "campaigns": 3,
+  "creatives": 6,
+  "csv_sha256": "6AA06734306C5E30E1CCCEB0D1472F4AEA20645FC5B3FB99C68BD1BB27A5A018",
+  "created_utc": "2026-09-23T19:57:58.6779974Z"
+}
